@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian Malasquez
 - 👀 I’m interested in Web Developing, and Data Science.
-- 🌱 I’m currently learning Javascript :D
+- 🌱 I’m currently learning Javascript and React:D
 - 💞️ I’m looking to collaborate on any proyect
 - 📫 How to reach me ...
 
